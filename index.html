@@ -63,6 +63,7 @@
       <p>Lain esta feliz solo por eso</p>
       <form action="enviar-respuesta">
         <p>A donde le gusta pasar su tiempo a Lain ?</p>
+        <!-- Botones de Radio -->
         <label for="En la compu">
           <input
             id="En la compu"
@@ -77,6 +78,25 @@
             name="En la compu-en el mundo real"
           />en el mundo real? </label
         ><br />
+        <!-- Casillas de verificacion -->
+        <label for="Tranquila"
+          ><input id="Tranquila" name="personalidad" type="checkbox" />Tranquila
+        </label>
+        <br />
+        <label for="Ojos ingenuos"
+          ><input id="Ojos ingenuos" name="personalidad" type="checkbox" />Ojos
+          ingenuos
+        </label>
+        <br />
+        <label for="Postura decaida"
+          ><input
+            id="Postura decaida"
+            name="personalidad"
+            type="checkbox"
+          />Postura decaida
+        </label>
+        <br />
+        <!-- Texto y boton enviar -->
         <input type="text" placeholder="URL de foto de lain MEME" required />
         <button type="submit">enviar</button>
       </form>
