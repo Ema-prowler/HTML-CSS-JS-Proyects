@@ -23,10 +23,7 @@ div{
 }
 
 #Lain-papas-lays {
-  margin-top: 30px;
-  margin-bottom: 6px;
-  margin-left: 25px;
-  margin-right: 15px;
+  margin: 30px 6px 25px 15px;
   padding: 15px 20px 34px 2px;
   background-color: crimson;
   border-radius: 50%;
