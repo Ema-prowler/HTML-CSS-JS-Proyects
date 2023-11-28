@@ -23,6 +23,8 @@ div{
 }
 
 #Lain-papas-lays{
+  padding: 15px;
+  background-color: crimson;
   border-radius: 50%;
   border-width: 5px;
   border-style: solid;
