@@ -19,5 +19,11 @@ h3 {
   border-radius: 50%;
 }
 
+div{
+  background-color: blue;
+}
+.contenedor-listas{
+  background-color: aqua;
+}
 
 /* se pueden poner fuentes de respaldo por fallas internas */
