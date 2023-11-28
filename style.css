@@ -9,6 +9,10 @@ h3 {
 
 .imagen-de-lain {
   width: 200px;
+  border-width: 5px;
+  border-color: blue;
+  border-style: outset dotted dashed double;
+
 }
 
 
