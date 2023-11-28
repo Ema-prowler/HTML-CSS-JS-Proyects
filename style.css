@@ -22,8 +22,11 @@ div{
   font-family: 'Ephesis', cursive;
 }
 
-#Lain-papas-lays{
-  margin: 15px;
+#Lain-papas-lays {
+  margin-top: 30px;
+  margin-bottom: 6px;
+  margin-left: 25px;
+  margin-right: 15px;
   padding: 15px 20px 34px 2px;
   background-color: crimson;
   border-radius: 50%;
