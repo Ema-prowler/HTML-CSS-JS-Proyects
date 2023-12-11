@@ -113,4 +113,13 @@ a{
 .texto-lainmeme{
   color: blue;
 }
+
+.Color-del-texto{
+  color: blue;
+}
+#Serial-Experiment-Lain{
+  color: black !important;
+}
+
 /* se pueden poner fuentes de respaldo por fallas internas */
+/**/
