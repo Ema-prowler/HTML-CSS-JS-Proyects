@@ -125,13 +125,15 @@ img{
   border-radius: 50%;
   border-width: 3px;
   border-style: solid;
-  border-color: #eb4034;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  -o-border-radius: 50%;
+  border-color: #eb4034; Se puede acortar el codigo Hexadecimal si se repite los digitos o letras
+  -webkit-border-radius: 50%;             ^
+  -moz-border-radius: 50%;                ^
+  -ms-border-radius: 50%;                 ^
+  -o-border-radius: 50%;                  ^
+  ----------------------------------------^-->#ffffff = #fff
 }
 */
+
 /*Puedes usar color picker de google para obtener los codigos hexadecimal*/
 /* se pueden poner fuentes de respaldo por fallas internas */
 /**/
