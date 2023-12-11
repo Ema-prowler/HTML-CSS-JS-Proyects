@@ -120,6 +120,18 @@ a{
 #Serial-Experiment-Lain{
   color: black !important;
 }
-
+/*
+img{
+  border-radius: 50%;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #eb4034;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+*/
+/*Puedes usar color picker de google para obtener los codigos hexadecimal*/
 /* se pueden poner fuentes de respaldo por fallas internas */
 /**/
