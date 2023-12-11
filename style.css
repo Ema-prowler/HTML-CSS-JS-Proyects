@@ -105,4 +105,12 @@ a{
   text-decoration: purple wavy underline;
 }
 */
+
+#titulomeme{/*el ID tiene prioridad ante una clase*/
+  color: purple;
+}
+
+.texto-lainmeme{
+  color: blue;
+}
 /* se pueden poner fuentes de respaldo por fallas internas */
