@@ -88,4 +88,21 @@ a[href="https://github.com/Ema-prowler"] {
   color: chocolate;
   aprendiendo a darle un estilo al body de la pagina web
 }*/
+
+.texto-azul{
+  color: blue;
+}
+.texto-morado{
+  color: purple;
+}
+
+.sin-subrayado{/*sin subrayado tiene prioridad antes que un selector de tipo*/
+  text-decoration: none;
+}
+
+/*
+a{
+  text-decoration: purple wavy underline;
+}
+*/
 /* se pueden poner fuentes de respaldo por fallas internas */
