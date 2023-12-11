@@ -82,4 +82,10 @@ a[href="https://github.com/Ema-prowler"] {
   width: 15em;
   /* font-size: 1.5em; escalar el valor de la fuente * 1.5 veces*/
 }
+
+/*body{
+  background-color: black;
+  color: chocolate;
+  aprendiendo a darle un estilo al body de la pagina web
+}*/
 /* se pueden poner fuentes de respaldo por fallas internas */
